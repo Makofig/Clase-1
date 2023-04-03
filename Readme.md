@@ -9,3 +9,5 @@ crear tres variables numericas, sumar y mostrar su valor
 pedir por teclado un directorio y visualizar el numero de ficheros 
 que hay en ese directorio. 
 si no existe que se genere un error 
+## Ejercicio 4 ## 
+pasar argumentos por la consola de comandos 
